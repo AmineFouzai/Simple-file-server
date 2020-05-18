@@ -1,0 +1,2 @@
+To download data from a (web) server, the client (you) initiates a connection to the server and typically sends a HTTP GET request which just asks the server to provide specific data (e.g. a web page).
+To upload data to a server, the client again initiates a connection to the server and then typically sends a HTTP POST request which contains the data to be uploaded. The server knows how to handle such a request and stores the data.
