@@ -30,6 +30,6 @@ Simple file server to serve files  over HTTP protocol via two endpoints <a href=
 
 ## Requesting Endpoints:
 
-To download data from a server, the client initiates a connection to the server and typically sends a HTTP GET request which just asks the server to provide specific data.
+- To download data from a server, the client initiates a connection to the server and typically sends a HTTP GET request which just asks the server to provide specific data.
 
-To upload data to a server, the client again initiates a connection to the server and then typically sends a HTTP POST request which contains the data to be uploaded. The server knows how to handle such a request and stores the data.
+- To upload data to a server, the client again initiates a connection to the server and then typically sends a HTTP POST request which contains the data to be uploaded. The server knows how to handle such a request and stores the data.
